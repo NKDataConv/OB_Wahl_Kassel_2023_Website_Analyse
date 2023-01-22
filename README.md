@@ -10,7 +10,7 @@ Um Ergebnisse zu reproduzieren, muss python 3 installiert sein. Die benötigten 
 https://www.sven-schoeller.de/datenschutz
 2
 
-Schoeller hat 2 Erwähnungen 'Wirtschaft' und 6903 Wörter auf der Website
+Sven Schoeller hat 2 Erwähnungen 'Wirtschaft' und 6903 Wörter auf der Website
 
 ### Eva Kühne-Hörmann
 ![](wordclouds/hoermann-World_Cloud.png)
@@ -18,7 +18,7 @@ Schoeller hat 2 Erwähnungen 'Wirtschaft' und 6903 Wörter auf der Website
 https://www.eva-kuehne-hoermann.de/klima-und-umweltschutz
 3
 
-hoermann hat 3 Erwähnungen 'Wirtschaft' und 10366 Wörter auf der Website
+Eva Kühne-Hörmann hat 3 Erwähnungen 'Wirtschaft' und 10366 Wörter auf der Website
 
 
 ### Dr. Isabel Carqueville
@@ -39,7 +39,7 @@ https://herzfuerkassel.de/dr-isabel-carqueville-for-mayor-of-kassel-2023/
 https://herzfuerkassel.de/
 9
 
-Carqueville hat 37 Erwähnungen 'Wirtschaft' und 22567 Wörter auf der Website
+Dr. Isabel Carqueville hat 37 Erwähnungen 'Wirtschaft' und 22567 Wörter auf der Website
 
 
 ### Violetta Bock
@@ -48,7 +48,7 @@ Carqueville hat 37 Erwähnungen 'Wirtschaft' und 22567 Wörter auf der Website
 https://www.violetta-bock.de/haushaltsrede-von-violetta-bock/
 2
 
-bock hat 2 Erwähnungen 'Wirtschaft' und 28589 Wörter auf der Website
+Violetta Bock hat 2 Erwähnungen 'Wirtschaft' und 28589 Wörter auf der Website
 
 
 ### Christian Geselle
@@ -63,4 +63,4 @@ https://christian-geselle.de/portfolio/item/durch-gemeinsame-gewerbegebiete/
 https://christian-geselle.de/portfolio/item/durch-vielseitige-kultur/
 1
 
-Geselle hat 8 Erwähnungen 'Wirtschaft' und 9358 Wörter auf der Website
+Christian Geselle hat 8 Erwähnungen 'Wirtschaft' und 9358 Wörter auf der Website
