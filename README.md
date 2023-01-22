@@ -13,7 +13,7 @@ https://www.sven-schoeller.de/datenschutz
 Schoeller hat 2 Erwähnungen 'Wirtschaft' und 6903 Wörter auf der Website
 
 ### Hoermann
-![](wordclouds/Hoermann-World_Cloud.png)
+![](wordclouds/hoermann-World_Cloud.png)
 
 https://www.eva-kuehne-hoermann.de/klima-und-umweltschutz
 3
