@@ -4,7 +4,7 @@ Um Ergebnisse zu reproduzieren, muss python 3 installiert sein. Die benötigten 
 
 ## Ergebnisse Anzahl Erwähnungen "Wirtschaft"
 
-### Schoeller
+### Sven Schoeller
 ![](wordclouds/Schoeller-World_Cloud.png)
 
 https://www.sven-schoeller.de/datenschutz
@@ -12,7 +12,7 @@ https://www.sven-schoeller.de/datenschutz
 
 Schoeller hat 2 Erwähnungen 'Wirtschaft' und 6903 Wörter auf der Website
 
-### Hoermann
+### Eva Kühne-Hörmann
 ![](wordclouds/hoermann-World_Cloud.png)
 
 https://www.eva-kuehne-hoermann.de/klima-und-umweltschutz
@@ -21,7 +21,7 @@ https://www.eva-kuehne-hoermann.de/klima-und-umweltschutz
 hoermann hat 3 Erwähnungen 'Wirtschaft' und 10366 Wörter auf der Website
 
 
-### Carqueville
+### Dr. Isabel Carqueville
 ![](wordclouds/Carqueville-World_Cloud.png)
 
 https://herzfuerkassel.de/#unterstuetzen
@@ -42,7 +42,7 @@ https://herzfuerkassel.de/
 Carqueville hat 37 Erwähnungen 'Wirtschaft' und 22567 Wörter auf der Website
 
 
-### Bock
+### Violetta Bock
 ![](wordclouds/bock-World_Cloud.png)
 
 https://www.violetta-bock.de/haushaltsrede-von-violetta-bock/
@@ -51,7 +51,7 @@ https://www.violetta-bock.de/haushaltsrede-von-violetta-bock/
 bock hat 2 Erwähnungen 'Wirtschaft' und 28589 Wörter auf der Website
 
 
-### Geselle
+### Christian Geselle
 ![](wordclouds/Geselle-World_Cloud.png)
 
 https://christian-geselle.de/2022/12/12/meine-bilanz/
