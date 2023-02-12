@@ -27,15 +27,17 @@ https://www.sven-schoeller.de/oberbuergermeister-kandidat-kassel
 Anzahl Wirtschaft: 2
 https://www.sven-schoeller.de/oberbuergermeisterwahl-kassel-termine
 Anzahl Wirtschaft: 1
+
 Schoeller hat 20 Erwähnungen 'Wirtschaft', 12 Erwähnungen 'digital' und 34154 Wörter auf der Website
 
 ### Eva Kühne-Hörmann
-![](wordclouds/hoermann-World_Cloud.png)
+![](wordclouds/Hoermann-World_Cloud.png)
 
 https://www.eva-kuehne-hoermann.de/wahlkampf-eva-kuehne-hoermann-unterstuetzen
 Anzahl digital: 1
 https://www.eva-kuehne-hoermann.de/klima-und-umweltschutz
 Anzahl Wirtschaft: 3
+
 Hoermann hat 3 Erwähnungen 'Wirtschaft', 1 Erwähnungen 'digital' und 5684 Wörter auf der Website
 
 ### Dr. Isabel Carqueville
@@ -65,10 +67,11 @@ https://herzfuerkassel.de/100-stimmen/14-moritz-butt/
 Anzahl digital: 1
 https://herzfuerkassel.de/100-stimmen/10-steffen-hunold/
 Anzahl Wirtschaft: 1
+
 Carqueville hat 61 (effektiv 19 aufgrund doppelter Zählung) Erwähnungen 'Wirtschaft', 3 Erwähnungen 'digital' und 34959 Wörter auf der Website
 
 ### Violetta Bock
-![](wordclouds/bock-World_Cloud.png)
+![](wordclouds/Bock-World_Cloud.png)
 
 https://www.violetta-bock.de/category/aktuelles/
 Anzahl Wirtschaft: 1
@@ -76,6 +79,7 @@ https://www.violetta-bock.de/radikal-sozial-wir-alle-sind-kassel/
 Anzahl digital: 1
 https://www.violetta-bock.de/author/jens/
 Anzahl Wirtschaft: 1
+
 Bock hat 2 Erwähnungen 'Wirtschaft', 1 Erwähnungen 'digital' und 19495 Wörter auf der Website
 
 ### Christian Geselle
@@ -89,4 +93,5 @@ https://christian-geselle.de/portfolio/item/durch-gemeinsame-gewerbegebiete/
 Anzahl Wirtschaft: 4
 https://christian-geselle.de/portfolio/item/durch-vielseitige-kultur/
 Anzahl Wirtschaft: 1
+
 Geselle hat 8 Erwähnungen 'Wirtschaft', 3 Erwähnungen 'digital' und 5729 Wörter auf der Website
