@@ -7,60 +7,86 @@ Um Ergebnisse zu reproduzieren, muss python 3 installiert sein. Die benötigten 
 ### Sven Schoeller
 ![](wordclouds/Schoeller-World_Cloud.png)
 
-https://www.sven-schoeller.de/datenschutz
-2
-
-Sven Schoeller hat 2 Erwähnungen 'Wirtschaft' und 6903 Wörter auf der Website
+https://www.sven-schoeller.de/ob-wahl-kassel/termine/podiumsdiskussion-der-wirtschaftsjunioren-der-ihk
+Anzahl Wirtschaft: 4
+https://www.sven-schoeller.de/ob-wahl-kassel/termine/firmenbesuch-mit-tarek-al-wazir-und-omid-nouripour
+Anzahl Wirtschaft: 1
+https://www.sven-schoeller.de/ob-wahl-kassel/termine/neujahrsempfang
+Anzahl Wirtschaft: 1
+https://www.sven-schoeller.de/oberbuergermeister-wahl-kassel-2023/aktuelles/beduerfnisse-von-seniorinnen-und-senioren-im-blick-behalten
+Anzahl digital: 4
+https://www.sven-schoeller.de/oberbuergermeister-wahl-kassel-2023/aktuelles/kassel-sollte-partnerschaft-mit-ukrainischer-stadt-eingehen
+Anzahl Wirtschaft: 1
+https://www.sven-schoeller.de/oberbuergermeister-wahl-kassel-2023/aktuelles/wahl-zum-oberbuergermeisterkandidaten-auf-der-kmv
+Anzahl Wirtschaft: 1
+https://www.sven-schoeller.de/oberbuergermeister-fuer-kassel
+Anzahl Wirtschaft: 9
+https://www.sven-schoeller.de/oberbuergermeister-fuer-kassel
+Anzahl digital: 8
+https://www.sven-schoeller.de/oberbuergermeister-kandidat-kassel
+Anzahl Wirtschaft: 2
+https://www.sven-schoeller.de/oberbuergermeisterwahl-kassel-termine
+Anzahl Wirtschaft: 1
+Schoeller hat 20 Erwähnungen 'Wirtschaft', 12 Erwähnungen 'digital' und 34154 Wörter auf der Website
 
 ### Eva Kühne-Hörmann
 ![](wordclouds/hoermann-World_Cloud.png)
 
+https://www.eva-kuehne-hoermann.de/wahlkampf-eva-kuehne-hoermann-unterstuetzen
+Anzahl digital: 1
 https://www.eva-kuehne-hoermann.de/klima-und-umweltschutz
-3
-
-Eva Kühne-Hörmann hat 3 Erwähnungen 'Wirtschaft' und 10366 Wörter auf der Website
-
+Anzahl Wirtschaft: 3
+Hoermann hat 3 Erwähnungen 'Wirtschaft', 1 Erwähnungen 'digital' und 5684 Wörter auf der Website
 
 ### Dr. Isabel Carqueville
 ![](wordclouds/Carqueville-World_Cloud.png)
 
 https://herzfuerkassel.de/#unterstuetzen
-9
-
+Anzahl Wirtschaft: 14
 https://herzfuerkassel.de/#positionen
-9
-
+Anzahl Wirtschaft: 14
 https://herzfuerkassel.de/#100tage
-9
-
+Anzahl Wirtschaft: 14
 https://herzfuerkassel.de/dr-isabel-carqueville-for-mayor-of-kassel-2023/
-1
-
+Anzahl Wirtschaft: 1
 https://herzfuerkassel.de/
-9
-
-Dr. Isabel Carqueville hat 37 Erwähnungen 'Wirtschaft' und 22567 Wörter auf der Website
-
+Anzahl Wirtschaft: 14
+https://herzfuerkassel.de/100-stimmen/48-jenny-mayerhofer/
+Anzahl Wirtschaft: 1
+https://herzfuerkassel.de/100-stimmen/47-christian-unverzagt/
+Anzahl digital: 1
+https://herzfuerkassel.de/100-stimmen/37-maurice-riesche/
+Anzahl Wirtschaft: 1
+https://herzfuerkassel.de/100-stimmen/31-sebastian-fiedler/
+Anzahl digital: 1
+https://herzfuerkassel.de/100-stimmen/23-peter-carqueville/
+Anzahl Wirtschaft: 1
+https://herzfuerkassel.de/100-stimmen/14-moritz-butt/
+Anzahl digital: 1
+https://herzfuerkassel.de/100-stimmen/10-steffen-hunold/
+Anzahl Wirtschaft: 1
+Carqueville hat 61 (effektiv 19 aufgrund doppelter Zählung) Erwähnungen 'Wirtschaft', 3 Erwähnungen 'digital' und 34959 Wörter auf der Website
 
 ### Violetta Bock
 ![](wordclouds/bock-World_Cloud.png)
 
-https://www.violetta-bock.de/haushaltsrede-von-violetta-bock/
-2
-
-Violetta Bock hat 2 Erwähnungen 'Wirtschaft' und 28589 Wörter auf der Website
-
+https://www.violetta-bock.de/category/aktuelles/
+Anzahl Wirtschaft: 1
+https://www.violetta-bock.de/radikal-sozial-wir-alle-sind-kassel/
+Anzahl digital: 1
+https://www.violetta-bock.de/author/jens/
+Anzahl Wirtschaft: 1
+Bock hat 2 Erwähnungen 'Wirtschaft', 1 Erwähnungen 'digital' und 19495 Wörter auf der Website
 
 ### Christian Geselle
 ![](wordclouds/Geselle-World_Cloud.png)
 
 https://christian-geselle.de/2022/12/12/meine-bilanz/
-3
-
+Anzahl Wirtschaft: 3
+https://christian-geselle.de/2022/12/12/meine-bilanz/
+Anzahl digital: 3
 https://christian-geselle.de/portfolio/item/durch-gemeinsame-gewerbegebiete/
-4
-
+Anzahl Wirtschaft: 4
 https://christian-geselle.de/portfolio/item/durch-vielseitige-kultur/
-1
-
-Christian Geselle hat 8 Erwähnungen 'Wirtschaft' und 9358 Wörter auf der Website
+Anzahl Wirtschaft: 1
+Geselle hat 8 Erwähnungen 'Wirtschaft', 3 Erwähnungen 'digital' und 5729 Wörter auf der Website
